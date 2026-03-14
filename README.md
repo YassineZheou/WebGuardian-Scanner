@@ -28,5 +28,5 @@
 1️⃣ **Cloner le dépôt GitHub** :
 
 ```bash
-git clone https://github.com/<TON_UTILISATEUR>/WebGuardian-Scanner.git
+git clone https://github.com/YassineZheou/WebGuardian-Scanner.git
 cd WebGuardian-Scanner
